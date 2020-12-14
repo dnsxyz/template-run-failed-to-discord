@@ -56,4 +56,4 @@ mailscript workflows:add \
 
 ## Discord setup
 
-1. Make sure you have edit access to a given channel. Navigate to `Edit channel > Integrations > Webhhoks` and create a new webhook (or pick an existing one). Copy the webhook url and added it the `body.json` file.
+Make sure you have edit access to a given channel. Navigate to `Edit channel > Integrations > Webhhoks` and create a new webhook (or pick an existing one). Copy the webhook url and added it the `body.json` file.
