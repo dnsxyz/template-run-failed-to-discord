@@ -1,4 +1,4 @@
-# Mailscrit templates: GitHub action fails, post message to discord #channel
+# Mailscript templates: GitHub action fails, post message to discord #channel
 
 You can use this template to setup a workflow that listens in to incoming messages and whenever it receives a message from github notifying a github action failed post the message's subject to a discord channel.
 
